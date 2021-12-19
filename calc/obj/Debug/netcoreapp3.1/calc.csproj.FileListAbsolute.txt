@@ -1,0 +1,16 @@
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.AssemblyReference.cache
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.GenerateResource.cache
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
+C:\Users\dmitrijlesnikov\source\repos\calc\calc\obj\Debug\netcoreapp3.1\calc.calc.resources

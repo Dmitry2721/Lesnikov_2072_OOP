@@ -1,0 +1,16 @@
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\bin\Debug\netcoreapp3.1\Paint.exe
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\bin\Debug\netcoreapp3.1\Paint.deps.json
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\bin\Debug\netcoreapp3.1\Paint.runtimeconfig.json
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\bin\Debug\netcoreapp3.1\Paint.runtimeconfig.dev.json
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\bin\Debug\netcoreapp3.1\Paint.dll
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\bin\Debug\netcoreapp3.1\Paint.pdb
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.csproj.AssemblyReference.cache
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.Form1.resources
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.csproj.GenerateResource.cache
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.AssemblyInfoInputs.cache
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.AssemblyInfo.cs
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.dll
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.pdb
+C:\Users\dmitrijlesnikov\source\repos\Paint\Paint\obj\Debug\netcoreapp3.1\Paint.genruntimeconfig.cache
